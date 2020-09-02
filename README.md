@@ -1,2 +1,4 @@
-# form-validation-samuel
-Hanya experiment
+- Form Validation
+- Upload images bisa langsung dengan jquery-form (tanpa ada embel-embel yang lain)
+- Simpan data di file json
+- Encrypt data di file json 
